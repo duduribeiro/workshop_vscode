@@ -1,0 +1,6 @@
+Usar o comando `o` para colocar uma linha acima.
+colocar o cursor após o `:`:
+colocar o cursor após o`:`:
+
+colocar o cursor no início da linha.
+colocar o cursor no fim da linha.

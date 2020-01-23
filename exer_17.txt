@@ -1,0 +1,6 @@
+copiar para o registrador a
+copiar para o registrador b
+
+colar registrador a
+
+colar registrador b
